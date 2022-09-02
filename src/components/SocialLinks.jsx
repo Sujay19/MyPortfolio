@@ -39,7 +39,6 @@ function SocialLinks() {
                  Resume <BsFillPersonLinesFill size={30}/>
                 </>
             ),
-            href: '/resume.docx',
             style:'rounded-br-md',
             download:false
         }
