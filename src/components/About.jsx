@@ -10,11 +10,15 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-20'>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut odio blanditiis esse quia id, illum, repellat tenetur labore ducimus voluptatem sapiente rerum. Harum consectetur amet in perspiciatis obcaecati fugiat nesciunt.
+                Welocome!
+            </p>
+            <br/>
+            <p className='text-xl mt-20'>
+                Every person has a unique story.Here is a glimpse into mine.
             </p>
             <br/>
             <p className='text-xl'>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quo, sunt repellendus necessitatibus suscipit perspiciatis omnis porro libero tenetur saepe asperiores rerum iure at nesciunt voluptatibus unde sit eos itaque explicabo vitae, molestias non laboriosam repellat similique. Assumenda, similique a minus dolores illo at eum nam dolor quae perspiciatis, iusto ex.
+                My name is Sujay G R  I have graduated from JSS Science and Technology University(SJCE), Mysore, Karnataka. I have a completed several courses regarding MERN stack Web development in the current working organization and in an external platform as well to upskill myself in various full stack topics.
             </p>
         </div>
     </div>
