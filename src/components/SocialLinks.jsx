@@ -41,7 +41,7 @@ function SocialLinks() {
             ),
             href: '/resume.docx',
             style:'rounded-br-md',
-            download:true
+            download:false
         }
     ]
   return (
