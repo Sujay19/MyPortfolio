@@ -1,10 +1,10 @@
 import React from 'react'
 import Html from "../assets/html.png";
 import Css from "../assets/css.png";
-import Javascript from "../assets/Javascript.png";
+import Javascript from "../assets/javascript.png";
 import NodeJS from "../assets/node.png";
 import ReactJS from "../assets/react.png";
-import Tailwind from "../assets/Tailwind.png";
+import Tailwind from "../assets/tailwind.png";
 
 const Experience = () => {
     const techs=[
