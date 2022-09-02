@@ -18,7 +18,8 @@ const About = () => {
             </p>
             <br/>
             <p className='text-xl'>
-                My name is Sujay G R  I have graduated from JSS Science and Technology University(SJCE), Mysore, Karnataka. I have a completed several courses regarding MERN stack Web development in the current working organization and in an external platform as well to upskill myself in various full stack topics.
+                My name is Sujay G R  I graduated from JSS Science and Technology University(SJCE), Mysore, Karnataka in the year 2020. I have completed MERN stack Web development course on Crio platform to upskill myself in various full stack technologies.
+                I actively seek out new technologies and stay up-to-date on industry trends and advancements. 
             </p>
         </div>
     </div>
