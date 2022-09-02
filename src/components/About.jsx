@@ -13,7 +13,7 @@ const About = () => {
                 Welocome!
             </p>
             <br/>
-            <p className='text-xl mt-20'>
+            <p className='text-xl'>
                 Every person has a unique story.Here is a glimpse into mine.
             </p>
             <br/>
