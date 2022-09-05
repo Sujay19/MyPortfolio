@@ -10,7 +10,7 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-20'>
-                Welocome!
+                Welcome!
             </p>
             <br/>
             <p className='text-xl'>
