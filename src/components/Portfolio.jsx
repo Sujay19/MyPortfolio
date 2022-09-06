@@ -4,6 +4,7 @@ import  QKart from "../assets/portfolio/QKart.png"
 import  QtripDynamic from "../assets/portfolio/QtripDynamic.png"
 import  NewsFeed from "../assets/portfolio/NewsFeed.png"
 import PortfolioImg from "../assets/portfolio/PortfolioImg.png"
+import Krypt from "../assets/portfolio/Krypt.png"
 
 import  usestate from "../assets/portfolio/usestate.jpg"
 import { Button, Link } from 'react-scroll'
@@ -34,6 +35,11 @@ const Portfolio = () => {
             id:5,
             src:PortfolioImg
         },
+        {
+            id:6,
+            src: Krypt,
+            href:"https://sujaykrypt.netlify.app/"
+        }
     ]
   return (
     <div name="portfolio" className='bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen'>
